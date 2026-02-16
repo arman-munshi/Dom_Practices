@@ -1,0 +1,16 @@
+1.DOM-->
+  Full Form is-->Document Object Model
+
+2.Types of DOM
+There are Three types of DOM
+(i)Core DOM
+(ii)XML DOM
+(iii)HTML DOM
+
+3.About HTML DOM
+it work on 4 things
+(i)Object
+(ii)Properties
+(iii)Method
+(iv)Event
+
