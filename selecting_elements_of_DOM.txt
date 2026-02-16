@@ -1,0 +1,11 @@
+Selecting Element
+-------------------------------------------------
+(i).getElementById() – select an element by id.
+(ii).getElementsByName() – select elements by name.
+(iii).getElementsByTagName()  – select elements by a tag name.
+(iv).getElementsByClassName() – select elements by one or more class names.
+
+----------------------------------------------------------
+
+(v).querySelector()  – select elements by CSS selectors.
+(vi).querySelectorAll()  – select elements by CSS selectors and also any tag.

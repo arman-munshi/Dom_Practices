@@ -14,3 +14,8 @@ it work on 4 things
 (iii)Method
 (iv)Event
 
+4.What javaScript can Do
+(i)Edit
+(ii)Delete
+(iii)Update
+Any html attribute tag class name or value.
